@@ -40,11 +40,15 @@
 # 技能清单
 
 以下均为我使用的技能
-- 前端框架：Bootstrap/AngularJS/reactJS/HTML5/css
-- 前端工具：webpack/SaSS/LeSS/PhoneGap
-- 数据库相关：MySQL
-- 版本管理、文档和自动化部署工具：Svn/Git
-- 云和开放平台：SAE/BAE/AWS/微博开放平台/微信应用开发
+	熟练掌握HTML5、CSS3、JavaScript开发,会用DOM编程以及编写网页动态效果
+	熟练使用jQuery,Bootstrap、AngularJS、Reactjs等框架
+	熟练使用AJAX,JSON,能够完成前后端的业务交互任务
+	熟悉W3C标准与ES规范,熟悉Web语义化
+	版本管理、文档和自动化部署工具：Svn/Git
+	熟悉盒子模型、对常用布局和浏览器和移动设备的兼容性有一定了解
+	熟悉服务器端编程的基本原理,对PHP有初步的了解和使用
+	了解后端开发的业务流程,对mySql、MVC有初步的了解和使用
+
 
 # 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。
