@@ -31,7 +31,7 @@
 
 
 ### 其他项目
-汽车租赁网站及配置（http://www.hainawin.com）、玻璃厂官网（http://www.whthyglass.com）、湖北广电网络微厅（公众号）、轻车出行app（商城:www.carlego.thingo.com.cn）
+汽车租赁网站及配置（http://www.hainawin.com）、玻璃厂官网（http://www.whthyglass.com）、湖北广电网络微厅（公众号）、轻车出行app（内嵌商城:www.carlego.thingo.com.cn）
 
  
 ## 湖北国富拓科技有限公司 （ 2014年7月 ~ 2016年3月 ）
